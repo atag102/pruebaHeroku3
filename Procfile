@@ -1,0 +1,1 @@
+web: gunicorn PH2000.wsgi --log-file -
